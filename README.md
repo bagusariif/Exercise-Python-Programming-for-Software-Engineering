@@ -1,2 +1,2 @@
 # Exercise-Python-Programming-for-Software-Engineering
-4 Python programming exercise from Pacmann.ai.
+4 Python programming exercises from Pacmann.ai.
